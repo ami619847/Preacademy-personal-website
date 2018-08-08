@@ -1,2 +1,3 @@
-# ami619847.github.io
-1site-test
+# personal website 
+
+First attemp of creating personal intro website using JavaScript, HTML and CSS
